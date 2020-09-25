@@ -1,4 +1,5 @@
 ![](https://github.com/konicaRu/pictures_blog/blob/master/anal_logo_yn_logo_prof.jpg)
+Привет я Дмитрий, я учусь в Яндекс Практикуме на аналитика данных. Пока отучился два месяца из шести. Здесь вы можете оценить мои самостоятельные проекты. Всё делал сам , ну мб немного помогали преподаватели :)), совсем немного :))
 
 [1. Проектная работа. Исследование надёжности заёмщиков](https://github.com/konicaRu/data_analyst/blob/master/1_project_data_pre_processing/1_project_git_finance_bank_loan.ipynb)
 
