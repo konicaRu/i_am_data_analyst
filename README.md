@@ -31,9 +31,15 @@
   
 [3. Итоговый проект по теме: Определение перспективного тарифа для телеком компании](https://github.com/konicaRu/data_analyst/blob/master/3_project_statistical_analysis_data/3_project_telecom_tariff.ipynb)
 
-[4. Сборный проект по всем темам. Исследование продаж компьютерных игр 1992-2016 год](https://github.com/konicaRu/data_analyst/blob/master/1_project_data_pre_processing/1_project_git_finance_bank_loan.ipynb)  
+[4. Сборный проект по всем темам. Исследование продаж компьютерных игр 1992-2016 год](https://github.com/konicaRu/data_analyst/blob/master/1_project_data_pre_processing/1_project_git_finance_bank_loan.ipynb)
+
+### Сбор и хранение данных SQL
+- Парсинг HTML.
+- Обработка данных скриптами на языке SQL. 
+- Операторы Select и Join.
+- Операции с базой: импорт и экспорт данных.
   
-### Процесс анализа данных
+## Процесс анализа данных
   
 ![](https://github.com/konicaRu/pictures_blog/blob/master/anal_truby_%20(3).jpg)
 ![](https://github.com/konicaRu/pictures_blog/blob/master/Logo_Kochetov_cv.jpg)
