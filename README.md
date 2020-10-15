@@ -46,7 +46,7 @@
 - Когортный авнализ. 
 - Юнит экономика.
 ___
-## Процесс анализа данных
+## Процесс анализа данных *(памятка аналитику)*
   
 ![](https://github.com/konicaRu/pictures_blog/blob/master/anal_truby_%20(3).jpg)
 ![](https://github.com/konicaRu/pictures_blog/blob/master/Logo_Kochetov_cv.jpg)
