@@ -9,7 +9,7 @@
 - Поиск дубликатов
 - Категоризация данных
 
-[1. Итоговый проект по теме: Исследование категорий заёмщиков](https://github.com/konicaRu/data_analyst/blob/master/1_project_data_pre_processing/1_project_git_finance_bank_loan.ipynb)
+[**1. Итоговый проект по теме: Исследование категорий заёмщиков**](https://github.com/konicaRu/data_analyst/blob/master/1_project_data_pre_processing/1_project_git_finance_bank_loan.ipynb)
 
 ### Исследовательский анализ данных
 - Визуализация данных с помощью гистограмм и ящиков с усами
@@ -18,7 +18,7 @@
 - Объединение таблиц.
 - Валидация результатов 
 
-[2. Итоговый проект по теме: Исследование объявлений о продаже квартир](https://github.com/konicaRu/data_analyst/blob/master/2_project_research_data_analysis/2_project_flat_for_sale.ipynb)
+[**2. Итоговый проект по теме: Исследование объявлений о продаже квартир**](https://github.com/konicaRu/data_analyst/blob/master/2_project_research_data_analysis/2_project_flat_for_sale.ipynb)
 
 ### Статистический анализ данных
 - Изучение объектов и их взаимосвязей методами статистики.
@@ -29,9 +29,9 @@
   - Гипотеза о равенстве средних двух генеральных совокупностей
   - Гипотеза о равенстве средних для зависимых (парных) выборок
   
-[3. Итоговый проект по теме: Определение перспективного тарифа для телеком компании](https://github.com/konicaRu/data_analyst/blob/master/3_project_statistical_analysis_data/3_project_telecom_tariff.ipynb)
+[**3. Итоговый проект по теме: Определение перспективного тарифа для телеком компании**](https://github.com/konicaRu/data_analyst/blob/master/3_project_statistical_analysis_data/3_project_telecom_tariff.ipynb)
 
-[4. Сборный проект по всем темам. Исследование продаж компьютерных игр 1992-2016 год](https://github.com/konicaRu/data_analyst/blob/master/1_project_data_pre_processing/1_project_git_finance_bank_loan.ipynb)
+[**4. Сборный проект по всем темам. Исследование продаж компьютерных игр 1992-2016 год**](https://github.com/konicaRu/data_analyst/blob/master/1_project_data_pre_processing/1_project_git_finance_bank_loan.ipynb)
 
 ### Сбор и хранение данных SQL
 - Парсинг HTML.
@@ -39,7 +39,7 @@
 - Операторы Select и Join.
 - Операции с базой: импорт и экспорт данных.
 
-[**5.Итоговый проект по теме: Аналитика в авиакомпании**](https://github.com/konicaRu/i_am_data_analyst/blob/master/5_project_collection_and_storage/5_analytics_in_airlines.ipynb)
+[**5. Итоговый проект по теме: Аналитика в авиакомпании**](https://github.com/konicaRu/i_am_data_analyst/blob/master/5_project_collection_and_storage/5_analytics_in_airlines.ipynb)
 
 ### Анализ бизнес-показателей
 - Метрики и воронки.
