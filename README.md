@@ -31,7 +31,7 @@
   
 [**3. Итоговый проект по теме: Определение перспективного тарифа для телеком компании**](https://github.com/konicaRu/data_analyst/blob/master/3_project_statistical_analysis_data/3_project_telecom_tariff.ipynb)
 
-[**4. Сборный проект по всем темам. Исследование продаж компьютерных игр 1992-2016 год**](https://github.com/konicaRu/data_analyst/blob/master/1_project_data_pre_processing/1_project_git_finance_bank_loan.ipynb)
+[**4. Сборный проект по всем темам. Исследование продаж компьютерных игр 1992-2016 год**](https://github.com/konicaRu/i_am_data_analyst/blob/master/4_complete_project_1/complete_project_1_computer%20games.ipynb)
 
 ### Сбор и хранение данных SQL
 - Парсинг HTML.
