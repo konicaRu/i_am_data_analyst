@@ -39,12 +39,12 @@
 - Операторы Select и Join.
 - Операции с базой: импорт и экспорт данных.
 
+[4. Итоговый проект по теме: Аналитика в авиакомпании](https://github.com/konicaRu/i_am_data_analyst/blob/master/5_project_collection_and_storage/5_analytics_in_airlines.ipynb)
+
 ### Анализ бизнес-показателей
 - Метрики и воронки.
 - Когортный авнализ. 
 - Юнит экономика.
-
-[4. Итоговый проект по теме: Аналитика в авиакомпании](https://github.com/konicaRu/i_am_data_analyst/blob/master/5_project_collection_and_storage/5_analytics_in_airlines.ipynb)
 ___
 ## Процесс анализа данных
   
