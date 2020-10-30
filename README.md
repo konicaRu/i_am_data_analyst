@@ -46,7 +46,7 @@
 - Когортный авнализ. 
 - Юнит экономика.
 ___
-### Образцы оформления GIT [1](https://github.com/Higem11/Yandex-Data-Analysis)
+Образцы оформления GIT [1](https://github.com/Higem11/Yandex-Data-Analysis)
 ## Процесс анализа данных *(памятка аналитику:)*
   
 ![](https://github.com/konicaRu/pictures_blog/blob/master/anal_truby_%20(3).jpg)
