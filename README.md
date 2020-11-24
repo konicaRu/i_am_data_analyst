@@ -51,6 +51,7 @@
 - Когортный авнализ. 
 - Юнит экономика.
 ___
+[Предпросмотр JUPYTER](https://nbviewer.jupyter.org/)
 Образцы оформления GIT [1](https://github.com/Higem11/Yandex-Data-Analysis)
 [2](https://github.com/semkamagurov)
 [3](https://github.com/Drewleks/yandex_praktikum)
