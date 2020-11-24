@@ -31,10 +31,10 @@
   - Гипотеза о равенстве средних двух генеральных совокупностей
   - Гипотеза о равенстве средних для зависимых (парных) выборок
   
-[**3. Итоговый проект по теме: Определение перспективного тарифа для телеком компании**](https://nbviewer.jupyter.org/github.com/konicaRu/data_analyst/blob/master/3_project_statistical_analysis_data/3_project_telecom_tariff.ipynb)  
+[**3. Итоговый проект по теме: Определение перспективного тарифа для телеком компании**](https://nbviewer.jupyter.org/github/konicaRu/data_analyst/blob/master/3_project_statistical_analysis_data/3_project_telecom_tariff.ipynb)  
 *Анализ тарифов мобильного оператора. Необходимо проанализировать поведение клиентов и сделать вывод — какой тариф лучше*
 
-[**4. Сборный проект по всем темам. Исследование продаж компьютерных игр 1992-2016 год**](https://nbviewer.jupyter.org/github.com/konicaRu/i_am_data_analyst/blob/master/4_complete_project_1/complete_project_1_computer%20games.ipynb)  
+[**4. Сборный проект по всем темам. Исследование продаж компьютерных игр 1992-2016 год**](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/4_complete_project_1/complete_project_1_computer%20games.ipynb)  
 *Интернет-магазин компьютерных игр и игр для консолей. Необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.*
 
 ### Сбор и хранение данных SQL
@@ -43,7 +43,7 @@
 - Операторы Select и Join.
 - Операции с базой: импорт и экспорт данных.
 
-[**5. Итоговый проект по теме: Аналитика в авиакомпании**](https://nbviewer.jupyter.org/konicaRu/i_am_data_analyst/blob/master/5_project_collection_and_storage/5_analytics_in_airlines.ipynb)  
+[**5. Итоговый проект по теме: Аналитика в авиакомпании**](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/5_project_collection_and_storage/5_analytics_in_airlines.ipynb)  
 *Анализ перелетов по моделям самолетов за определенный период. Составление карты перелетов**
 
 ### Анализ бизнес-показателей
