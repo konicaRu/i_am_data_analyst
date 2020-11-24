@@ -52,6 +52,7 @@
 - Юнит экономика.
 ___
 Образцы оформления GIT [1](https://github.com/Higem11/Yandex-Data-Analysis)
+[2](https://github.com/semkamagurov)
 ## Процесс анализа данных *(памятка аналитику:)*
   
 ![](https://github.com/konicaRu/pictures_blog/blob/master/anal_truby_%20(3).jpg)
