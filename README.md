@@ -56,7 +56,7 @@ _______________________________________________________________________
 - прибыльность или убыточность бизнеса.
 - воронки метрик. 
 - когортный анализ для изучения поведения клиентов, расчёта LTV и окупаемости бизнеса.
-- метрики LTV, CAC, Retention rate, DAU, WAU, MAU, ROMI.
+- метрики CAC, Retention rate, DAU, WAU, MAU, ROMI.
 
 |[Проект оптимизация маркетинговых затрат в Яндекс.Афише](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/6_project%20_analytics_in_yandex_afisha_3send/6_project%20_analytics_in_yandex_afisha_3send.ipynb)|
 |:------------------------------------------| 
