@@ -6,3 +6,5 @@ _______________________________________
 котором гостей обслуживают роботы-официанты. По результатам анализа подготовлена
 презентация для инвесторов с рекомендациями. В построении графиков я использовали
 библиотеки seaborn и plotly. 
+
+[Ссылка на проект через **nbviewer**](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/8_project%20_public_catering_msk/8_project%20_public_catering_1send.ipynb)
