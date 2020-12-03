@@ -4,3 +4,4 @@
 ____________________________
 Проведен анализ данных от Яндекс.Афиши целью оптимизации маркетинговых затрат.
 Рассчитаны метрики LTV, CAC, Retention rate, DAU, WAU, MAU, ROMI
+[Сыылка на проект через nbviewer.jupyter.org ](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/6_project%20_analytics_in_yandex_afisha_3send/6_project%20_analytics_in_yandex_afisha_3send.ipynb)
