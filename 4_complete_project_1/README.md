@@ -9,4 +9,4 @@ ________________________________________________
 ## Самые популярные жанры (топ-5)
 action sports shooter для Европы и Америке и в Японии лидер с большим отрывом role-playing, менталитет играет роль стране восходящего солнца предпочитают другую тематику игр
 
-[Ссылка на проект в nbviewer](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/4_complete_project_1/complete_project_1_computer%20games.ipynb)
+[**Ссылка на проект в nbviewer**](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/4_complete_project_1/complete_project_1_computer%20games.ipynb)
