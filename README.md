@@ -10,7 +10,7 @@
 - Поиск дубликатов
 - Категоризация данных
 
-### |[Проект для кредитного отдела банка исследование категорий заёмщиков](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/1_project_data_pre_processing/1_project_git_finance_bank_loan.ipynb)|
+|[Проект для кредитного отдела банка исследование категорий заёмщиков](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/1_project_data_pre_processing/1_project_git_finance_bank_loan.ipynb)|
 |------------------------------------------|  
 |Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.
 Входные данные от банка — статистика о платёжеспособности клиентов. Результаты исследования будут учтены при построении модели
