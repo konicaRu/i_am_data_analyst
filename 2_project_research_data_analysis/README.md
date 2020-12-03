@@ -7,4 +7,5 @@ _____________________________________
 - Pandas
 - Matplotlib
 - предобработка данных  
-[**Ссылка на проект в nbviewer**](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/2_project_research_data_analysis/2_project_flat_for_sale.ipynb)|
+
+[**Ссылка на проект в nbviewer**](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/2_project_research_data_analysis/2_project_flat_for_sale.ipynb)
