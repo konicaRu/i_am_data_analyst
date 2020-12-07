@@ -3,8 +3,7 @@
 ### Описание всех проектовю  
 Порядковыый номер | Описаине проекта |Инструменты  
 :-----------:|:----------:|------------------------  
-2|[**Исследование рынка недвижимости Санкт Петербурга**](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/2_project_research_data_analysis/2_project_flat_for_sale.ipynb) Исследовал и установил параметры, которые в той или иной степени оказывают влиение на финальную стоимость квартиры. Это позволит построить автоматизированную систему оценки квартир.| Python
-Pandas, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных.
+2|[**Исследование рынка недвижимости Санкт Петербурга**](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/2_project_research_data_analysis/2_project_flat_for_sale.ipynb) Исследовал и установил параметры, которые в той или иной степени оказывают влиение на финальную стоимость квартиры. Это позволит построить автоматизированную систему оценки квартир.| Python, Pandas, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных.
 3|[**Проект для телеком компании определение перспективного тарифа**](https://nbviewer.jupyter.org/github/konicaRu/data_analyst/blob/master/3_project_statistical_analysis_data/3_project_telecom_tariff.ipynb) Проанализировал тарифы мобильного оператора и поведение клиентов. Подготовил отчем для отдела маркетинга — какой тариф лучше|
 
 |[Проект исследование продаж компьютерных игр в период с 1992-2016 год](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/4_complete_project_1/complete_project_1_computer%20games.ipynb)|
