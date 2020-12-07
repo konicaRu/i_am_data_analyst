@@ -1,4 +1,4 @@
-![https://github.com/konicaRu/pictures_blog/blob/master/anal_logo_yn_logo_prof.jpg](https://github.com/konicaRu/pictures_blog/blob/master/anal_logo_yn_logo_prof.jpg)
+![https://github.com/konicaRu/pictures_blog/blob/master/anal_logo_yn_logo_prof.jpg](https://praktikum.yandex.ru)
 
 ## Описание всех проектов. 
 **Порядковыый номер** | **Описаине проекта** |**Навыки и инструменты**  
