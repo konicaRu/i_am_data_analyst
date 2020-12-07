@@ -1,10 +1,9 @@
 ![](https://github.com/konicaRu/pictures_blog/blob/master/anal_logo_yn_logo_prof.jpg)
 
 ### Описание всех проектовю  
-порядковыый номер | описаине проекта |инструменты  
+Порядковыый номер | Описаине проекта |Инструменты  
 :-----------:|:----------:|------------------------  
-2|[**Проект исследование рынка недвижимости Санкт Петербурга**](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/2_project_research_data_analysis/2_project_flat_for_sale.ipynb)  
-Определение рыночной стоимости объектов недвижимости (на базе данных ресурса Яндекс.Недвижимость). Задача — установить параметры, которые в той или иной степени оказывают влиение на финальную стоимость квартиры. Это позволит построить автоматизированную систему оценки квартир.| Python, Pandas, Matplotlib, NumPy
+2|[**Проект исследование рынка недвижимости Санкт Петербурга**](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/2_project_research_data_analysis/2_project_flat_for_sale.ipynb) Необходимо установить параметры, которые в той или иной степени оказывают влиение на финальную стоимость квартиры. Это позволит построить автоматизированную систему оценки квартир.| Python, Pandas, Matplotlib, NumPy
 
 
 |
