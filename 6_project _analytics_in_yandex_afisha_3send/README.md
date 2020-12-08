@@ -2,11 +2,12 @@
 _____________________
 На основе данных о посещениях сайта Яндекс.Афиши проанализировал как люди пользуются продуктом, когда они начинают покупать, сколько денег приносит каждый клиент, когда он окупается Был сформирован отчет со списком рекомендации по оптимизация маркетинговых затрат в Яндекс.Афише**
 ____________________________
-Python
-Pandas
-Matplotlib
-когортный анализ
-юнит-экономика
-продуктовые метрики
-рассчитаны метрики LTV, CAC, Retention rate, DAU, WAU, MAU, ROMI  
+**Используемые инструменты**
+Python,
+Pandas,
+Matplotlib,
+когортный анализ,
+юнит-экономика,
+продуктовые метрики, LTV, CAC, Retention rate, DAU, WAU, MAU, ROMI 
+ 
 [Сыылка на проект через nbviewer.jupyter.org ](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/6_project%20_analytics_in_yandex_afisha_3send/6_project%20_analytics_in_yandex_afisha_3send.ipynb)
