@@ -8,4 +8,4 @@ _______________________________________
 SQL
 
 
-[Ссылка на проект через **nbviewer**](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/8_project%20_public_catering_msk/8_project%20_public_catering_1send.ipynb)
+[Ссылка на проект через **nbviewer**](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/12_SQL/12_SQL_GitHub.ipynb)
