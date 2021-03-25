@@ -10,4 +10,4 @@ SciPy,
 A/B-тестирование,
 проверка статистических гипотез
 
-[Ссылка на проект через **nbviewer**](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/7_project%20_a_b_test_2_send/7_project%20_a_b_test_2_send.ipynb)
+[Ссылка на проект через **nbviewer**](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/7_project_a_b_test_2_send/7_project%20_a_b_test_2_send.ipynb)
