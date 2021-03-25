@@ -1,4 +1,5 @@
 ### Используя машинное обучение разработана стратегию по борьбе с оттоком посетителей из сети фитнес клубов.
 На основе данных о посетителях сети фитнес-центров сделал прогноз вероятности оттока клиентов. Сформирмировал с помощью кластеризации портреты клиентов
 Выяснили: наиболее преданные клиенты старше 30 лет , живут рядом, ходят на групповые занятия. Чтобы избежать оттока необходимо повысить их количество и лояльность
-[Ссылка на проект через **nbviewer**](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/8_project%20_public_catering_msk/8_project%20_public_catering_1send.ipynb)
+
+[Ссылка на проект через **nbviewer**](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/11_project_ML_fitness_club/11_ML_project_1_send.ipynb)
